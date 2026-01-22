@@ -1,0 +1,10 @@
+[2026-01-22 17:45:07] [INFO] Application started. Ready to begin.
+[2026-01-22 17:45:07] [INFO] Log directory: C:\Users\Kunvar Bhadur\OneDrive - Doceree India\11-04-2025\Cursor\Cursor-Course\ToolToCaptureTC\activity_logs
+[2026-01-22 17:45:07] [INFO] Auto-save enabled. Logs will be saved automatically.
+[2026-01-22 17:45:31] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:45:31] [INFO] Found Chrome window: Doceree - Login - Google Chrome
+[2026-01-22 17:45:31] [SUCCESS] Opened URL in Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:45:41] [INFO] Launching Chrome browser for recording (no setup needed)...
+[2026-01-22 17:45:42] [SUCCESS] Chrome browser launched successfully
+[2026-01-22 17:45:42] [INFO] Navigating to: https://qa-exchange.doceree.com/login
+[2026-01-22 17:45:42] [ERROR] Failed to navigate to URL: 'NoneType' object has no attribute 'goto'

@@ -1,0 +1,6 @@
+[2026-01-22 17:23:00] [INFO] Application started. Ready to begin.
+[2026-01-22 17:23:00] [INFO] Log directory: C:\Users\Kunvar Bhadur\OneDrive - Doceree India\11-04-2025\Cursor\Cursor-Course\ToolToCaptureTC\activity_logs
+[2026-01-22 17:23:00] [INFO] Auto-save enabled. Logs will be saved automatically.
+[2026-01-22 17:23:21] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:23:21] [INFO] Found Chrome window: New tab - Google Chrome
+[2026-01-22 17:23:21] [INFO] Opened URL in default browser: https://qa-exchange.doceree.com/login

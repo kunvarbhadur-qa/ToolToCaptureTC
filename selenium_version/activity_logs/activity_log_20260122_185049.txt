@@ -1,0 +1,55 @@
+[2026-01-22 18:50:49] [INFO] Application started. Ready to begin. (Selenium Version)
+[2026-01-22 18:50:49] [INFO] Log directory: C:\Users\Kunvar Bhadur\OneDrive - Doceree India\11-04-2025\Cursor\Cursor-Course\ToolToCaptureTC\selenium_version\activity_logs
+[2026-01-22 18:50:49] [INFO] Auto-save enabled. Logs will be saved automatically.
+[2026-01-22 18:51:12] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 18:51:12] [INFO] Found Chrome window: New tab - Google Chrome
+[2026-01-22 18:51:13] [SUCCESS] URL sent to current Chrome tab: https://qa-exchange.doceree.com/login
+[2026-01-22 18:51:31] [INFO] Launching Chrome browser for recording (Selenium)...
+[2026-01-22 18:51:35] [INFO] No manually opened browser found. Launching Chrome automatically...
+[2026-01-22 18:51:38] [INFO] Using webdriver-manager for ChromeDriver
+[2026-01-22 18:51:38] [SUCCESS] Chrome browser launched successfully (Selenium)
+[2026-01-22 18:51:38] [INFO] Window maximized. Size: 1920x2000
+[2026-01-22 18:51:38] [INFO] Navigating to: https://qa-exchange.doceree.com/login
+[2026-01-22 18:51:45] [SUCCESS] Page fully loaded with all resources (CSS, images, etc.)
+[2026-01-22 18:51:45] [WARNING] Note: Message: javascript error: Cannot redefine property: webdriver
+  (Session info: chrome=144.0.7559.59)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7a7d13
+	0x7a7d54
+	0x5cb290
+	0x5d1eb8
+	0x5d4442
+	0x655f5d
+	0x637fbc
+	0x655111
+	0x637d56
+	0x6094d9
+	0x60a294
+	0xa1bb64
+	0xa17215
+	0xa33fad
+	0x7c1ef8
+	0x7c9b0d
+	0x7b0738
+	0x7b0902
+	0x79a1da
+	0x75b55d49
+	0x76ebd5db
+	0x76ebd561
+
+[2026-01-22 18:51:45] [ERROR] Error processing queue: Item end not found
+[2026-01-22 18:51:45] [SUCCESS] ✓ Page captured: Doceree - Login (1 buttons, 2 inputs)
+[2026-01-22 18:51:45] [INFO] Page loaded: Doceree - Login
+[2026-01-22 18:51:45] [INFO] Recording started. Interact with the browser and click 'Capture Page' to record states.
+[2026-01-22 18:51:45] [ERROR] Error processing queue: Item end not found
+[2026-01-22 18:55:31] [ERROR] Error processing queue: Item end not found
+[2026-01-22 18:55:31] [SUCCESS] ✓ Page captured: Doceree - Advertiser > Marketing-platform > Plan > List > Hcp (21 buttons, 2 inputs)
+[2026-01-22 18:55:53] [ERROR] Error processing queue: Item end not found
+[2026-01-22 18:55:53] [SUCCESS] ✓ Page captured: Doceree - Advertiser > Marketing-platform > Activate > CampaignManage (18 buttons, 4 inputs)
+[2026-01-22 18:56:44] [INFO] Generating test cases...
+[2026-01-22 18:56:44] [INFO] Generated JSON: test_case_20260122_185644.json
+[2026-01-22 18:56:44] [INFO] Generated Text: test_case_20260122_185644.txt
+[2026-01-22 18:56:44] [INFO] Generated Python (Selenium): test_case_20260122_185644.py
+[2026-01-22 18:56:44] [INFO] Generated Excel: Doceree_TestCases.xlsx
+[2026-01-22 18:56:44] [INFO] ✓ All test cases generated successfully in: C:/Users/Kunvar Bhadur/OneDrive - Doceree India/11-04-2025/Cursor/Cursor-Course/ToolToCaptureTC/selenium_version

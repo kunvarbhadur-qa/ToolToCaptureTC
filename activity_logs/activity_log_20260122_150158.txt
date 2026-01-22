@@ -1,0 +1,18 @@
+[2026-01-22 15:01:58] [INFO] Application started. Ready to begin.
+[2026-01-22 15:01:58] [INFO] Log directory: C:\Users\Kunvar Bhadur\OneDrive - Doceree India\11-04-2025\Cursor\Cursor-Course\ToolToCaptureTC\activity_logs
+[2026-01-22 15:01:58] [INFO] Auto-save enabled. Logs will be saved automatically.
+[2026-01-22 15:02:07] [INFO] Starting chrome browser in normal mode...
+[2026-01-22 15:02:08] [INFO] Using temporary Chrome profile (won't affect existing Chrome windows)
+[2026-01-22 15:02:08] [INFO] Launching new Chrome window (separate from existing Chrome)...
+[2026-01-22 15:02:09] [INFO] Navigating to: https://qa-exchange.doceree.com/login
+[2026-01-22 15:02:13] [ERROR] Failed to launch Chrome: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://qa-exchange.doceree.com/login", waiting until "networkidle"
+
+[2026-01-22 15:02:18] [INFO] Starting chrome browser in normal mode...
+[2026-01-22 15:02:19] [INFO] Using temporary Chrome profile (won't affect existing Chrome windows)
+[2026-01-22 15:02:19] [INFO] Launching new Chrome window (separate from existing Chrome)...
+[2026-01-22 15:02:19] [INFO] Navigating to: https://qa-exchange.doceree.com/login
+[2026-01-22 15:02:23] [SUCCESS] ✓ Page captured: Doceree - Login (1 buttons, 2 inputs)
+[2026-01-22 15:02:23] [SUCCESS] Page loaded: Doceree - Login
+[2026-01-22 15:02:23] [INFO] New Chrome window opened successfully. Your existing Chrome windows are not affected.

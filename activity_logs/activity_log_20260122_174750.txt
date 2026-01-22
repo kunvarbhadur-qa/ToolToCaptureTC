@@ -1,0 +1,19 @@
+[2026-01-22 17:47:50] [INFO] Application started. Ready to begin.
+[2026-01-22 17:47:50] [INFO] Log directory: C:\Users\Kunvar Bhadur\OneDrive - Doceree India\11-04-2025\Cursor\Cursor-Course\ToolToCaptureTC\activity_logs
+[2026-01-22 17:47:50] [INFO] Auto-save enabled. Logs will be saved automatically.
+[2026-01-22 17:48:01] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:48:01] [INFO] Found Chrome window: Doceree - Login - Google Chrome
+[2026-01-22 17:48:01] [SUCCESS] Opened URL in Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:48:14] [INFO] Launching Chrome browser for recording (no setup needed)...
+[2026-01-22 17:48:15] [SUCCESS] Chrome browser launched successfully
+[2026-01-22 17:48:16] [INFO] Window maximized. Viewport: 1536x2000
+[2026-01-22 17:48:16] [INFO] Navigating to: https://qa-exchange.doceree.com/login
+[2026-01-22 17:48:20] [WARNING] Note: Page.evaluate: TypeError: Cannot redefine property: webdriver
+    at Object.defineProperty (<anonymous>)
+    at eval (eval at evaluate (:290:30), <anonymous>:2:28)
+    at eval (<anonymous>)
+    at UtilityScript.evaluate (<anonymous>:290:30)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-01-22 17:48:20] [SUCCESS] ✓ Page captured: Doceree - Login (1 buttons, 2 inputs)
+[2026-01-22 17:48:20] [INFO] Page loaded: Doceree - Login
+[2026-01-22 17:48:20] [INFO] Recording started. Interact with the browser and click 'Capture Page' to record states.

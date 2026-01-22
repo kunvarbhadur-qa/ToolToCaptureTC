@@ -1,0 +1,84 @@
+================================================================================
+TEST CASE DOCUMENTATION (Selenium)
+================================================================================
+
+Test Case ID: TC_20260122_185644
+Created At: 2026-01-22 18:56:44
+Initial URL: https://qa-exchange.doceree.com/login
+Total Actions Recorded: 4
+
+================================================================================
+RECORDED ACTIONS
+================================================================================
+
+
+--- Action 1 ---
+Type: navigate
+Timestamp: 2026-01-22T18:51:45.542404
+URL: https://qa-exchange.doceree.com/login
+Page Title: Doceree - Login
+
+
+--- Action 2 ---
+Type: page_capture
+Timestamp: 2026-01-22T18:51:45.559628
+Page URL: https://qa-exchange.doceree.com/login
+Page Title: Doceree - Login
+
+Buttons Found (1):
+  - Go to Dashboard (ID: )
+
+Input Fields Found (2):
+  - Type: text, ID: email
+  - Type: password, ID: pwd
+
+
+--- Action 3 ---
+Type: page_capture
+Timestamp: 2026-01-22T18:55:30.455709
+Page URL: https://qa-exchange.doceree.com/advertiser/marketing-platform/plan/list/hcp
+Page Title: Doceree - Advertiser > Marketing-platform > Plan > List > Hcp
+
+Buttons Found (21):
+  -  (ID: )
+  -  (ID: )
+  -  (ID: )
+  -  (ID: )
+  -  (ID: )
+  - AS (ID: )
+  - chevron_right (ID: )
+  - Monagra
+arrow_drop_down (ID: )
+  -  (ID: )
+  -  (ID: )
+
+Input Fields Found (2):
+  - Type: text, ID: mat-input-3
+  - Type: text, ID: 
+
+
+--- Action 4 ---
+Type: page_capture
+Timestamp: 2026-01-22T18:55:52.790757
+Page URL: https://qa-exchange.doceree.com/advertiser/marketing-platform/activate/campaignManage
+Page Title: Doceree - Advertiser > Marketing-platform > Activate > CampaignManage
+
+Buttons Found (18):
+  -  (ID: )
+  -  (ID: )
+  -  (ID: )
+  -  (ID: )
+  -  (ID: )
+  - AS (ID: )
+  - chevron_right (ID: )
+  - Monagra
+arrow_drop_down (ID: )
+  -  (ID: )
+  - Open calendar (ID: )
+
+Input Fields Found (4):
+  - Type: text, ID: mat-input-8
+  - Type: text, ID: 
+  - Type: text, ID: startDate
+  - Type: text, ID: endDate
+

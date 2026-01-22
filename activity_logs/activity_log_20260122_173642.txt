@@ -1,0 +1,51 @@
+[2026-01-22 17:36:42] [INFO] Application started. Ready to begin.
+[2026-01-22 17:36:42] [INFO] Log directory: C:\Users\Kunvar Bhadur\OneDrive - Doceree India\11-04-2025\Cursor\Cursor-Course\ToolToCaptureTC\activity_logs
+[2026-01-22 17:36:42] [INFO] Auto-save enabled. Logs will be saved automatically.
+[2026-01-22 17:36:57] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:36:57] [INFO] Found Chrome window: New tab - Google Chrome
+[2026-01-22 17:36:57] [SUCCESS] Opened URL in Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:37:04] [INFO] Connecting to manually opened Chrome browser...
+[2026-01-22 17:37:09] [ERROR] Chrome remote debugging is not enabled!
+
+The 'Connect for Recording' feature requires Chrome to be started with remote debugging.
+
+OPTION 1 - Enable Remote Debugging (for full recording):
+1. Close ALL Chrome windows completely (check Task Manager)
+2. Open Command Prompt (cmd) as Administrator
+3. Run this command:
+   "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
+
+   OR if Chrome is in a different location:
+   "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
+
+4. Chrome will open with remote debugging enabled
+5. Then click 'Connect for Recording' again
+
+OPTION 2 - Use 'Send URL to Browser' (no setup needed):
+For simple URL navigation without recording, use the 'Send URL to Browser' button instead.
+
+Connection error: <urlopen error timed out>
+[2026-01-22 17:37:15] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:37:15] [INFO] Found Chrome window: New tab - Google Chrome
+[2026-01-22 17:37:16] [SUCCESS] Opened URL in Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:37:20] [INFO] Connecting to manually opened Chrome browser...
+[2026-01-22 17:37:25] [ERROR] Chrome remote debugging is not enabled!
+
+The 'Connect for Recording' feature requires Chrome to be started with remote debugging.
+
+OPTION 1 - Enable Remote Debugging (for full recording):
+1. Close ALL Chrome windows completely (check Task Manager)
+2. Open Command Prompt (cmd) as Administrator
+3. Run this command:
+   "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
+
+   OR if Chrome is in a different location:
+   "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
+
+4. Chrome will open with remote debugging enabled
+5. Then click 'Connect for Recording' again
+
+OPTION 2 - Use 'Send URL to Browser' (no setup needed):
+For simple URL navigation without recording, use the 'Send URL to Browser' button instead.
+
+Connection error: <urlopen error timed out>

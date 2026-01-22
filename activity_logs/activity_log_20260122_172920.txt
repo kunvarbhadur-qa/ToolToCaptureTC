@@ -1,0 +1,6 @@
+[2026-01-22 17:29:20] [INFO] Application started. Ready to begin.
+[2026-01-22 17:29:20] [INFO] Log directory: C:\Users\Kunvar Bhadur\OneDrive - Doceree India\11-04-2025\Cursor\Cursor-Course\ToolToCaptureTC\activity_logs
+[2026-01-22 17:29:20] [INFO] Auto-save enabled. Logs will be saved automatically.
+[2026-01-22 17:29:35] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:29:35] [WARNING] Window automation failed: name 'chrome_windows' is not defined. Trying alternative method...
+[2026-01-22 17:29:35] [ERROR] Unexpected error: name 'chrome_windows' is not defined

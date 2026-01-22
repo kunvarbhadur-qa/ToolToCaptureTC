@@ -1,0 +1,336 @@
+{
+  "test_case_id": "TC_20260122_185644",
+  "created_at": "2026-01-22T18:56:44.553693",
+  "initial_url": "https://qa-exchange.doceree.com/login",
+  "total_actions": 4,
+  "actions": [
+    {
+      "action": "navigate",
+      "url": "https://qa-exchange.doceree.com/login",
+      "timestamp": "2026-01-22T18:51:45.542404",
+      "page_title": "Doceree - Login",
+      "page_url": "https://qa-exchange.doceree.com/login"
+    },
+    {
+      "action": "page_capture",
+      "url": "https://qa-exchange.doceree.com/login",
+      "title": "Doceree - Login",
+      "timestamp": "2026-01-22T18:51:45.559628",
+      "buttons": [
+        {
+          "text": "Go to Dashboard",
+          "id": "",
+          "class": "arrow-icon mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-unthemed mat-mdc-button-base",
+          "tag": "button"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "id": "email",
+          "name": "email",
+          "placeholder": "Enter user name"
+        },
+        {
+          "type": "password",
+          "id": "pwd",
+          "name": "pswd",
+          "placeholder": "Enter password"
+        }
+      ],
+      "body_text_preview": "Hello,\nWelcome to Doceree!\nDoceree enhances HCP-patient engagement with patented, responsive technology, tackling current & emerging challenges in healthcare and life sciences amid digital advancements.\nUser name*\nPassword*\nDon't have an account? Contact our Business team and get started now!\nGo to Dashboard\nForgot password?\n© Copyright 2026 | Doceree Inc."
+    },
+    {
+      "action": "page_capture",
+      "url": "https://qa-exchange.doceree.com/advertiser/marketing-platform/plan/list/hcp",
+      "title": "Doceree - Advertiser > Marketing-platform > Plan > List > Hcp",
+      "timestamp": "2026-01-22T18:55:30.455709",
+      "buttons": [
+        {
+          "text": "",
+          "id": "",
+          "class": "mat-mdc-tooltip-trigger topnavbarbox mr-2 align-content-center border-bottom mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mat-mdc-tooltip-trigger topnavbarbox mr-2 align-content-center border-bottom mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mat-mdc-menu-trigger mat-mdc-tooltip-trigger topnavbarbox mr-2 align-content-center border-bottom mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mat-mdc-menu-trigger mat-mdc-tooltip-trigger topnavbarbox mr-2 align-content-center mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mat-mdc-menu-trigger mat-mdc-tooltip-trigger topnavbarbox mr-2 align-content-center mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "AS",
+          "id": "",
+          "class": "mat-mdc-menu-trigger fs18 fw6 wColor mr-2 topnavbarbox align-content-center mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base",
+          "tag": "button"
+        },
+        {
+          "text": "chevron_right",
+          "id": "",
+          "class": "sidebarToggleButton mat-elevation-z4 mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "Monagra\narrow_drop_down",
+          "id": "",
+          "class": "mat-mdc-menu-trigger pl-2 cPointer brand-switcher-dropdown h42 w-100",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "position-absolute ask-style-1 mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mr-3 mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-unthemed mat-mdc-button-base",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mdc-button mdc-button--outlined mat-mdc-outlined-button mat-unthemed mat-mdc-button-base",
+          "tag": "button"
+        },
+        {
+          "text": "+ Create new target list",
+          "id": "",
+          "class": "fr top-button fs14 mt-3 mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-unthemed mat-mdc-button-base",
+          "tag": "button"
+        },
+        {
+          "text": "add\n2",
+          "id": "",
+          "class": "mat-mdc-menu-trigger segment-btn fs13 pl-0 justify-content-end c-005c mdc-button mat-mdc-button mat-unthemed mat-mdc-button-base ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mat-mdc-menu-trigger br0 bgNone sup",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mat-mdc-menu-trigger br0 bgNone sup",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mat-mdc-menu-trigger br0 bgNone sup",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mat-mdc-menu-trigger br0 bgNone sup",
+          "tag": "button"
+        },
+        {
+          "text": "First page",
+          "id": "",
+          "class": "mat-mdc-tooltip-trigger mat-mdc-paginator-navigation-first mdc-icon-button mat-mdc-icon-button mat-mdc-button-disabled mat-unthemed mat-mdc-button-base mat-mdc-tooltip-disabled ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "Previous page",
+          "id": "",
+          "class": "mat-mdc-tooltip-trigger mat-mdc-paginator-navigation-previous mdc-icon-button mat-mdc-icon-button mat-mdc-button-disabled mat-unthemed mat-mdc-button-base mat-mdc-tooltip-disabled",
+          "tag": "button"
+        },
+        {
+          "text": "Next page",
+          "id": "",
+          "class": "mat-mdc-tooltip-trigger mat-mdc-paginator-navigation-next mdc-icon-button mat-mdc-icon-button mat-mdc-button-disabled mat-unthemed mat-mdc-button-base mat-mdc-tooltip-disabled",
+          "tag": "button"
+        },
+        {
+          "text": "Last page",
+          "id": "",
+          "class": "mat-mdc-tooltip-trigger mat-mdc-paginator-navigation-last mdc-icon-button mat-mdc-icon-button mat-mdc-button-disabled mat-unthemed mat-mdc-button-base mat-mdc-tooltip-disabled ng-star-inserted",
+          "tag": "button"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "id": "mat-input-3",
+          "name": "",
+          "placeholder": "Ask Doceree AI"
+        },
+        {
+          "type": "text",
+          "id": "",
+          "name": "targetList",
+          "placeholder": "Search for an audience list, audience type or segment criteria..."
+        }
+      ],
+      "body_text_preview": "AS\nPlan\nTarget Group\nForecast\nBusiness Rules Builder\nchevron_right\nMonagra\narrow_drop_down\nManage Target List\nView and manage all your HCPs, Non-HCPs, and Accounts target lists in one place.\nFilter\n+ Create new target list\nHCP\nNon-HCP\nAccounts\nAudience Name\nDate Created\nLast updated\nSegment\nAudience Size\nTagged\nAQS\nType\nStatus\nAction\n21 Jan 2026_CR_2 21 Jan 2026 21 Jan 2026\nBehavior\nadd\n2\n- - - Created\n21 Jan 2026_CR_1 21 Jan 2026 21 Jan 2026\nDemographics\n26,286 25,442 - Created\n21 Jan 2026_UP_2 21 Jan 2026 21 Jan 2026\nUpload\n14,999 13,543 - Uploaded\n21 Jan 2026_UP_1 21 Jan 2026 21 Jan 2026\nUpload\n19,890 18,085 - Uploaded\nItems per page:\n10\n1 – 4 of 4"
+    },
+    {
+      "action": "page_capture",
+      "url": "https://qa-exchange.doceree.com/advertiser/marketing-platform/activate/campaignManage",
+      "title": "Doceree - Advertiser > Marketing-platform > Activate > CampaignManage",
+      "timestamp": "2026-01-22T18:55:52.790757",
+      "buttons": [
+        {
+          "text": "",
+          "id": "",
+          "class": "mat-mdc-tooltip-trigger topnavbarbox mr-2 align-content-center border-bottom mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mat-mdc-tooltip-trigger topnavbarbox mr-2 align-content-center border-bottom mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mat-mdc-menu-trigger mat-mdc-tooltip-trigger topnavbarbox mr-2 align-content-center border-bottom mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mat-mdc-menu-trigger mat-mdc-tooltip-trigger topnavbarbox mr-2 align-content-center mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mat-mdc-menu-trigger mat-mdc-tooltip-trigger topnavbarbox mr-2 align-content-center mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "AS",
+          "id": "",
+          "class": "mat-mdc-menu-trigger fs18 fw6 wColor mr-2 topnavbarbox align-content-center mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base",
+          "tag": "button"
+        },
+        {
+          "text": "chevron_right",
+          "id": "",
+          "class": "sidebarToggleButton mat-elevation-z4 mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "Monagra\narrow_drop_down",
+          "id": "",
+          "class": "mat-mdc-menu-trigger pl-2 cPointer brand-switcher-dropdown h42 w-100",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "position-absolute ask-style-1 mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base",
+          "tag": "button"
+        },
+        {
+          "text": "Open calendar",
+          "id": "",
+          "class": "mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base",
+          "tag": "button"
+        },
+        {
+          "text": "Open calendar",
+          "id": "",
+          "class": "mdc-icon-button mat-mdc-icon-button mat-unthemed mat-mdc-button-base",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "mr-3 ng-tns-c2071734304-60 mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-unthemed mat-mdc-button-base",
+          "tag": "button"
+        },
+        {
+          "text": "",
+          "id": "",
+          "class": "ng-tns-c2071734304-60 mdc-button mdc-button--outlined mat-mdc-outlined-button mat-unthemed mat-mdc-button-base",
+          "tag": "button"
+        },
+        {
+          "text": "+ Create new campaign",
+          "id": "",
+          "class": "fr top-button fs14 ng-tns-c2071734304-60 mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-unthemed mat-mdc-button-base",
+          "tag": "button"
+        },
+        {
+          "text": "First page",
+          "id": "",
+          "class": "mat-mdc-tooltip-trigger mat-mdc-paginator-navigation-first mdc-icon-button mat-mdc-icon-button mat-mdc-button-disabled mat-unthemed mat-mdc-button-base mat-mdc-tooltip-disabled ng-star-inserted",
+          "tag": "button"
+        },
+        {
+          "text": "Previous page",
+          "id": "",
+          "class": "mat-mdc-tooltip-trigger mat-mdc-paginator-navigation-previous mdc-icon-button mat-mdc-icon-button mat-mdc-button-disabled mat-unthemed mat-mdc-button-base mat-mdc-tooltip-disabled",
+          "tag": "button"
+        },
+        {
+          "text": "Next page",
+          "id": "",
+          "class": "mat-mdc-tooltip-trigger mat-mdc-paginator-navigation-next mdc-icon-button mat-mdc-icon-button mat-mdc-button-disabled mat-unthemed mat-mdc-button-base mat-mdc-tooltip-disabled",
+          "tag": "button"
+        },
+        {
+          "text": "Last page",
+          "id": "",
+          "class": "mat-mdc-tooltip-trigger mat-mdc-paginator-navigation-last mdc-icon-button mat-mdc-icon-button mat-mdc-button-disabled mat-unthemed mat-mdc-button-base mat-mdc-tooltip-disabled ng-star-inserted",
+          "tag": "button"
+        }
+      ],
+      "inputs": [
+        {
+          "type": "text",
+          "id": "mat-input-8",
+          "name": "",
+          "placeholder": "Ask Doceree AI"
+        },
+        {
+          "type": "text",
+          "id": "",
+          "name": "campaign",
+          "placeholder": "Type a campaign/sub campaign name..."
+        },
+        {
+          "type": "text",
+          "id": "startDate",
+          "name": "startDate",
+          "placeholder": "From date"
+        },
+        {
+          "type": "text",
+          "id": "endDate",
+          "name": "endDate",
+          "placeholder": "To date"
+        }
+      ],
+      "body_text_preview": "AS\nActivate\nCreate Campaign\nManage Campaign\nDrafts\nCreative Manager\nchevron_right\nMonagra\narrow_drop_down\nManage Campaigns List\nView and manage all your campaigns in one place.\nFilter\n+ Create new campaign\nDisplay\nMulti Channel\nNext Sequence\nContent\nType\nCampaign\nFrom Date\nTo Date\nSpend\nReach\nStatus\nAction\nPOC - Triggers - 21 Jan 2... 21 Jan 2026 31 Jan 2026 - -\nPOC - Workflow - 21 Jan 2... 21 Jan 2026 31 Jan 2026 - -\nPOC - Display - 21 Jan 20... 21 Jan 2026 31 Jan 2026 - -\nItems per page:\n10\n1 – 3 of 3"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+[2026-01-22 18:49:34] [INFO] Application started. Ready to begin. (Selenium Version)
+[2026-01-22 18:49:34] [INFO] Log directory: C:\Users\Kunvar Bhadur\OneDrive - Doceree India\11-04-2025\Cursor\Cursor-Course\ToolToCaptureTC\selenium_version\activity_logs
+[2026-01-22 18:49:34] [INFO] Auto-save enabled. Logs will be saved automatically.
+[2026-01-22 18:49:56] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 18:49:56] [INFO] Found Chrome window: New tab - Google Chrome
+[2026-01-22 18:49:58] [SUCCESS] URL sent to current Chrome tab: https://qa-exchange.doceree.com/login
+[2026-01-22 18:50:17] [INFO] Launching Chrome browser for recording (Selenium)...
+[2026-01-22 18:50:21] [INFO] No manually opened browser found. Launching Chrome automatically...
+[2026-01-22 18:50:26] [INFO] Using webdriver-manager for ChromeDriver
+[2026-01-22 18:50:26] [SUCCESS] Chrome browser launched successfully (Selenium)
+[2026-01-22 18:50:26] [INFO] Window maximized. Size: 1920x2000
+[2026-01-22 18:50:26] [INFO] Navigating to: https://qa-exchange.doceree.com/login
+[2026-01-22 18:50:33] [SUCCESS] Page fully loaded with all resources (CSS, images, etc.)
+[2026-01-22 18:50:33] [WARNING] Note: Message: javascript error: Cannot redefine property: webdriver
+  (Session info: chrome=144.0.7559.59)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7a7d13
+	0x7a7d54
+	0x5cb290
+	0x5d1eb8
+	0x5d4442
+	0x655f5d
+	0x637fbc
+	0x655111
+	0x637d56
+	0x6094d9
+	0x60a294
+	0xa1bb64
+	0xa17215
+	0xa33fad
+	0x7c1ef8
+	0x7c9b0d
+	0x7b0738
+	0x7b0902
+	0x79a1da
+	0x75b55d49
+	0x76ebd5db
+	0x76ebd561
+
+[2026-01-22 18:50:33] [ERROR] Error processing queue: Item end not found
+[2026-01-22 18:50:34] [SUCCESS] ✓ Page captured: Doceree - Login (1 buttons, 2 inputs)
+[2026-01-22 18:50:34] [INFO] Page loaded: Doceree - Login
+[2026-01-22 18:50:34] [INFO] Recording started. Interact with the browser and click 'Capture Page' to record states.
+[2026-01-22 18:50:34] [ERROR] Error processing queue: Item end not found
+[2026-01-22 18:50:39] [INFO] Recording stopped.

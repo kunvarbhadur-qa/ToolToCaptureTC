@@ -1,0 +1,27 @@
+[2026-01-22 17:51:53] [INFO] Application started. Ready to begin.
+[2026-01-22 17:51:53] [INFO] Log directory: C:\Users\Kunvar Bhadur\OneDrive - Doceree India\11-04-2025\Cursor\Cursor-Course\ToolToCaptureTC\activity_logs
+[2026-01-22 17:51:53] [INFO] Auto-save enabled. Logs will be saved automatically.
+[2026-01-22 17:52:18] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:52:18] [INFO] Found Chrome window: New tab - Google Chrome
+[2026-01-22 17:52:18] [SUCCESS] Opened URL in Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:52:26] [INFO] Launching Chrome browser for recording (no setup needed)...
+[2026-01-22 17:52:27] [SUCCESS] Chrome browser launched successfully
+[2026-01-22 17:52:28] [INFO] Window maximized. Viewport: 1536x2000
+[2026-01-22 17:52:28] [INFO] Navigating to: https://qa-exchange.doceree.com/login
+[2026-01-22 17:52:35] [SUCCESS] Page fully loaded with all resources (CSS, images, etc.)
+[2026-01-22 17:52:35] [WARNING] Note: Page.evaluate: TypeError: Cannot redefine property: webdriver
+    at Object.defineProperty (<anonymous>)
+    at eval (eval at evaluate (:290:30), <anonymous>:2:28)
+    at eval (<anonymous>)
+    at UtilityScript.evaluate (<anonymous>:290:30)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-01-22 17:52:36] [SUCCESS] ✓ Page captured: Doceree - Login (1 buttons, 2 inputs)
+[2026-01-22 17:52:36] [INFO] Page loaded: Doceree - Login
+[2026-01-22 17:52:36] [INFO] Recording started. Interact with the browser and click 'Capture Page' to record states.
+[2026-01-22 17:52:42] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:52:42] [INFO] Found Chrome window: Doceree - Login - Google Chrome
+[2026-01-22 17:52:43] [SUCCESS] Opened URL in Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:52:56] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:52:56] [INFO] Found Chrome window: New tab - Google Chrome
+[2026-01-22 17:52:56] [SUCCESS] Opened URL in Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:53:13] [INFO] Log display cleared.

@@ -1,0 +1,52 @@
+[2026-01-22 17:32:38] [INFO] Application started. Ready to begin.
+[2026-01-22 17:32:38] [INFO] Log directory: C:\Users\Kunvar Bhadur\OneDrive - Doceree India\11-04-2025\Cursor\Cursor-Course\ToolToCaptureTC\activity_logs
+[2026-01-22 17:32:38] [INFO] Auto-save enabled. Logs will be saved automatically.
+[2026-01-22 17:32:53] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:32:54] [INFO] Found Chrome window: New tab - Google Chrome
+[2026-01-22 17:32:54] [SUCCESS] Opened URL in Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:33:06] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:33:06] [INFO] Found Chrome window: Doceree - Login - Google Chrome
+[2026-01-22 17:33:06] [SUCCESS] Opened URL in Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:33:18] [INFO] Connecting to manually opened Chrome browser...
+[2026-01-22 17:33:23] [ERROR] Chrome remote debugging is not enabled!
+
+Your Chrome is open, but it needs to be started with remote debugging.
+
+SOLUTION:
+1. Close ALL Chrome windows completely
+2. Open Command Prompt (cmd)
+3. Run this command:
+   "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
+
+   OR if Chrome is in a different location, find chrome.exe and run:
+   "[path to chrome.exe]" --remote-debugging-port=9222
+
+4. Chrome will open with remote debugging enabled
+5. Then click 'Connect to Browser' again
+
+Connection error: <urlopen error timed out>
+[2026-01-22 17:33:45] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:33:45] [INFO] Found Chrome window: New tab - Google Chrome
+[2026-01-22 17:33:45] [SUCCESS] Opened URL in Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:33:52] [INFO] Log display cleared.
+[2026-01-22 17:33:57] [INFO] Sending URL to Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:33:57] [INFO] Found Chrome window: New tab - Google Chrome
+[2026-01-22 17:33:57] [SUCCESS] Opened URL in Chrome: https://qa-exchange.doceree.com/login
+[2026-01-22 17:34:02] [INFO] Connecting to manually opened Chrome browser...
+[2026-01-22 17:34:07] [ERROR] Chrome remote debugging is not enabled!
+
+Your Chrome is open, but it needs to be started with remote debugging.
+
+SOLUTION:
+1. Close ALL Chrome windows completely
+2. Open Command Prompt (cmd)
+3. Run this command:
+   "C:\Program Files\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
+
+   OR if Chrome is in a different location, find chrome.exe and run:
+   "[path to chrome.exe]" --remote-debugging-port=9222
+
+4. Chrome will open with remote debugging enabled
+5. Then click 'Connect to Browser' again
+
+Connection error: <urlopen error timed out>

@@ -1,0 +1,38 @@
+[2026-01-22 17:14:59] [INFO] Application started. Ready to begin.
+[2026-01-22 17:14:59] [INFO] Log directory: C:\Users\Kunvar Bhadur\OneDrive - Doceree India\11-04-2025\Cursor\Cursor-Course\ToolToCaptureTC\activity_logs
+[2026-01-22 17:14:59] [INFO] Auto-save enabled. Logs will be saved automatically.
+[2026-01-22 17:15:10] [INFO] Connecting to manually opened Chrome browser...
+[2026-01-22 17:15:11] [ERROR] Failed to connect to Chrome browser.
+
+Please make sure:
+1. Chrome is open
+2. Chrome was started with: chrome.exe --remote-debugging-port=9222
+
+Error: BrowserType.connect_over_cdp: connect ECONNREFUSED ::1:9222
+Call log:
+  - <ws preparing> retrieving websocket url from http://localhost:9222
+
+[2026-01-22 17:15:43] [INFO] Log display cleared.
+[2026-01-22 17:15:45] [INFO] Connecting to manually opened Chrome browser...
+[2026-01-22 17:15:46] [ERROR] Failed to connect to Chrome browser.
+
+Please make sure:
+1. Chrome is open
+2. Chrome was started with: chrome.exe --remote-debugging-port=9222
+
+Error: BrowserType.connect_over_cdp: connect ECONNREFUSED ::1:9222
+Call log:
+  - <ws preparing> retrieving websocket url from http://localhost:9222
+
+[2026-01-22 17:16:28] [INFO] Log display cleared.
+[2026-01-22 17:16:31] [INFO] Connecting to manually opened Chrome browser...
+[2026-01-22 17:16:32] [ERROR] Failed to connect to Chrome browser.
+
+Please make sure:
+1. Chrome is open
+2. Chrome was started with: chrome.exe --remote-debugging-port=9222
+
+Error: BrowserType.connect_over_cdp: connect ECONNREFUSED ::1:9222
+Call log:
+  - <ws preparing> retrieving websocket url from http://localhost:9222
+

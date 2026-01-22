@@ -1,0 +1,17 @@
+[2026-01-22 16:04:02] [INFO] Application started. Ready to begin.
+[2026-01-22 16:04:02] [INFO] Log directory: C:\Users\Kunvar Bhadur\OneDrive - Doceree India\11-04-2025\Cursor\Cursor-Course\ToolToCaptureTC\activity_logs
+[2026-01-22 16:04:02] [INFO] Auto-save enabled. Logs will be saved automatically.
+[2026-01-22 16:04:11] [INFO] Starting chrome browser in normal mode...
+[2026-01-22 16:04:13] [INFO] Using temporary Chrome profile (won't affect existing Chrome windows)
+[2026-01-22 16:04:13] [INFO] Launching new Chrome window (separate from existing Chrome)...
+[2026-01-22 16:04:15] [INFO] Window ready. Viewport: 1280x720. Content height: 720px
+[2026-01-22 16:04:15] [INFO] Navigating to: https://qa-exchange.doceree.com/login
+[2026-01-22 16:04:20] [WARNING] Note: Page.evaluate: TypeError: Cannot redefine property: webdriver
+    at Object.defineProperty (<anonymous>)
+    at eval (eval at evaluate (:290:30), <anonymous>:2:40)
+    at eval (<anonymous>)
+    at UtilityScript.evaluate (<anonymous>:290:30)
+    at UtilityScript.<anonymous> (<anonymous>:1:44)
+[2026-01-22 16:04:20] [SUCCESS] ✓ Page captured: Doceree - Login (1 buttons, 2 inputs)
+[2026-01-22 16:04:20] [SUCCESS] Page loaded: Doceree - Login
+[2026-01-22 16:04:20] [INFO] New Chrome window opened successfully. Your existing Chrome windows are not affected.
