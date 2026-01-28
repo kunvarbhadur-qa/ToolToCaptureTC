@@ -1,0 +1,34 @@
+================================================================================
+TEST CASE DOCUMENTATION (Selenium)
+================================================================================
+
+Test Case ID: TC_20260128_184834
+Created At: 2026-01-28 18:48:34
+Initial URL: https://qa-exchange.doceree.com/login
+Total Actions Recorded: 2
+
+================================================================================
+RECORDED ACTIONS
+================================================================================
+
+
+--- Action 1 ---
+Type: navigate
+Timestamp: 2026-01-28T18:46:50.940729
+URL: https://qa-exchange.doceree.com/login
+Page Title: Doceree - Login
+
+
+--- Action 2 ---
+Type: page_capture
+Timestamp: 2026-01-28T18:46:50.978148
+Page URL: https://qa-exchange.doceree.com/login
+Page Title: Doceree - Login
+
+Buttons Found (1):
+  - Go to Dashboard (ID: )
+
+Input Fields Found (2):
+  - Type: text, ID: email
+  - Type: password, ID: pwd
+
