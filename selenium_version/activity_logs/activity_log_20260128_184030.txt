@@ -1,0 +1,84 @@
+[2026-01-28 18:40:30] [INFO] Application started. Ready to begin. (Selenium Version)
+[2026-01-28 18:40:30] [INFO] Log directory: C:\Users\Kunvar Bhadur\OneDrive - Doceree India\11-04-2025\Cursor\Cursor-Course\ToolToCaptureTC\selenium_version\activity_logs
+[2026-01-28 18:40:30] [INFO] Auto-save enabled. Logs will be saved automatically.
+[2026-01-28 18:40:52] [INFO] Launching Chrome browser for recording (Selenium)...
+[2026-01-28 18:40:56] [INFO] No manually opened browser found. Launching Chrome automatically...
+[2026-01-28 18:41:00] [INFO] Using webdriver-manager for ChromeDriver
+[2026-01-28 18:41:00] [SUCCESS] Chrome browser launched successfully (Selenium)
+[2026-01-28 18:41:01] [INFO] Window maximized. Size: 1920x2000
+[2026-01-28 18:41:01] [INFO] Navigating to: https://qa-exchange.doceree.com/login
+[2026-01-28 18:41:07] [SUCCESS] Page fully loaded with all resources (CSS, images, etc.)
+[2026-01-28 18:41:07] [WARNING] Note: Message: javascript error: Cannot redefine property: webdriver
+  (Session info: chrome=144.0.7559.97)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x608543
+	0x608584
+	0x3fb4e0
+	0x402101
+	0x404684
+	0x4861f1
+	0x46821c
+	0x4853a1
+	0x467fb6
+	0x4396f9
+	0x43a4b4
+	0x85d034
+	0x8582c9
+	0x876460
+	0x621a68
+	0x62988d
+	0x610df8
+	0x610fc2
+	0x5fab3a
+	0x75c55d49
+	0x778cd5db
+	0x778cd561
+
+[2026-01-28 18:41:08] [ERROR] Error processing queue: Item end not found
+[2026-01-28 18:41:08] [SUCCESS] ✓ Page captured: Doceree - Login (1 buttons, 2 inputs)
+[2026-01-28 18:41:08] [INFO] Page loaded: Doceree - Login
+[2026-01-28 18:41:08] [INFO] Recording started. Interact with the browser and click 'Capture Page' to record states.
+[2026-01-28 18:41:08] [ERROR] Error processing queue: Item end not found
+[2026-01-28 18:41:15] [INFO] Recording stopped.
+[2026-01-28 18:41:19] [INFO] Launching Chrome browser for recording (Selenium)...
+[2026-01-28 18:41:24] [INFO] No manually opened browser found. Launching Chrome automatically...
+[2026-01-28 18:41:27] [INFO] Using webdriver-manager for ChromeDriver
+[2026-01-28 18:41:27] [SUCCESS] Chrome browser launched successfully (Selenium)
+[2026-01-28 18:41:28] [INFO] Window maximized. Size: 1920x2000
+[2026-01-28 18:41:28] [INFO] Navigating to: https://qa-exchange.doceree.com/login
+[2026-01-28 18:41:34] [SUCCESS] Page fully loaded with all resources (CSS, images, etc.)
+[2026-01-28 18:41:34] [WARNING] Note: Message: javascript error: Cannot redefine property: webdriver
+  (Session info: chrome=144.0.7559.97)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x608543
+	0x608584
+	0x3fb4e0
+	0x402101
+	0x404684
+	0x4861f1
+	0x46821c
+	0x4853a1
+	0x467fb6
+	0x4396f9
+	0x43a4b4
+	0x85d034
+	0x8582c9
+	0x876460
+	0x621a68
+	0x62988d
+	0x610df8
+	0x610fc2
+	0x5fab3a
+	0x75c55d49
+	0x778cd5db
+	0x778cd561
+
+[2026-01-28 18:41:35] [ERROR] Error processing queue: Item end not found
+[2026-01-28 18:41:35] [SUCCESS] ✓ Page captured: Doceree - Login (1 buttons, 2 inputs)
+[2026-01-28 18:41:35] [INFO] Page loaded: Doceree - Login
+[2026-01-28 18:41:35] [INFO] Recording started. Interact with the browser and click 'Capture Page' to record states.
+[2026-01-28 18:41:35] [ERROR] Error processing queue: Item end not found
+[2026-01-28 18:41:45] [INFO] Recording stopped.
+[2026-01-28 18:42:22] [INFO] Log cleared.

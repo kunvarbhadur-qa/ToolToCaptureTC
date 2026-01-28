@@ -1153,6 +1153,8 @@ class TestCaptureToolSeleniumGUI:
         self.log("Recording stopped.")
         self.capture_btn.config(state="disabled")
         self.stop_btn.config(state="disabled")
+        # Re-enable the connect button so user can start a new recording
+        self.connect_browser_btn.config(state="normal")
     
     def generate_test_cases_gui(self):
         """Generate test cases from GUI"""
